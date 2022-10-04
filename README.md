@@ -28,7 +28,7 @@ I am a junior Frontend Developer aspiring to become a senior.
 
 - :seedling: Exploring React.
 
-- :bicyclist: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :bicyclist: In my free time, I do sports and read tech articles.
   
 - :books: Studies Linguistics and foregn cultures.
   
