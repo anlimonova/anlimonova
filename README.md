@@ -16,9 +16,6 @@
 </div>
 <main>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
-</div>
 <div id="about">
   
   ---
@@ -30,7 +27,7 @@ I am a junior Frontend Developer aspiring to become a senior.
 
 - :bicyclist: In my free time, I do sports and read tech articles.
   
-- :books: Studies Linguistics and foregn cultures.
+- :books: Studied Linguistics and foreign cultures.
   
 </div>
 <div id="tools">
